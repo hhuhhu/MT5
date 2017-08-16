@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                                   SignalBAND.mqh |
-//|                        Copyright 2017, MetaQuotes Software Corp. |
+//|                                                           Daniel |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
 #include <Expert\ExpertSignal.mqh>

@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
-//|                                                   ExpertBIAS.mq5 |
-//|                                                      Daixiaorong |
+//|                                                   ExpertBAND.mq5 |
+//|                                                           Daniel |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Daixiaorong"
+#property copyright "Daniel"
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 //+------------------------------------------------------------------+
